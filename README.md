@@ -1,3 +1,5 @@
+使用说明：http://www.cnblogs.com/grom/p/8931650.html
+
 # DotnetSpider
 This is a cross platfrom spider develop by C#.
 
